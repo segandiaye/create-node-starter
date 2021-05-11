@@ -1,0 +1,26 @@
+{
+  "name": "create-node-starter",
+  "version": "1.0.0",
+  "description": "Create node app starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segandiaye/create-node-starter.git"
+  },
+  "keywords": [
+    "create",
+    "node",
+    "starter",
+    "createnode",
+    "createnodestarter"
+  ],
+  "author": "NDIAYE Sega «segadembandiaye2007@gmail.com»",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/segandiaye/create-node-starter/issues"
+  },
+  "homepage": "https://github.com/segandiaye/create-node-starter#readme"
+}
