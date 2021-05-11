@@ -10,7 +10,9 @@
     "create-node-starter": "bin/index.js"
   },
   "scripts": {
-    "test": "echo 'No tests!'"
+    "test": "echo 'No tests!'",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
   },
   "repository": {
     "type": "git",
