@@ -13,4 +13,5 @@ install:
   - npm ci --cache .npm --prefer-offline --loglevel notice
 
 script:
+  - npm run test:ci
   - npm audit
