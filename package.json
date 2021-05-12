@@ -2,9 +2,9 @@
   "name": "create-node-starter",
   "version": "1.0.0",
   "description": "Create node app starter",
-  "main": "lib/index.js",
+  "main": "lib/main.js",
   "engines": {
-    "node": ">=10"
+    "node": ">=12.18"
   },
   "bin": {
     "create-node-starter": "bin/index.js"
@@ -22,8 +22,11 @@
     "create",
     "node",
     "starter",
+    "server",
     "createnode",
-    "createnodestarter"
+    "createnodeserver",
+    "createnodestarter",
+    "createnodeserverstarter"
   ],
   "author": "NDIAYE Sega «segadembandiaye2007@gmail.com»",
   "license": "MIT",
@@ -32,10 +35,10 @@
   },
   "homepage": "https://github.com/segandiaye/create-node-starter#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "yargs-parser": "^20.2.7"
   },
   "devDependencies": {
-    "eslint": "7.26.0",
+    "eslint": "^7.26.0",
     "eslint-config-src": "^1.0.1",
     "jest": "^26.6.3"
   }
