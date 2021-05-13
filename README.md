@@ -29,12 +29,6 @@ npm start
 
 To browse your app go to http://localhost:8888
 
-To serve your application use command :
-
-```sh
-npm start serve
-```
-
 ### Project architecture
 
 ```sh
