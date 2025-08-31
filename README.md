@@ -1,7 +1,7 @@
 # create-node-starter
 
 [![NPM version](http://img.shields.io/npm/v/create-node-starter.svg)](https://www.npmjs.org/package/create-node-starter)
-[![codecov](https://codecov.io/gh/segandiaye/create-node-starter/branch/feat/build_badge/graph/badge.svg)](https://codecov.io/gh/segandiaye/create-node-starter)
+[![codecov](https://codecov.io/gh/segandiaye/create-node-starter/branch/feat/main/graph/badge.svg)](https://codecov.io/gh/segandiaye/create-node-starter)
 
 This tool allows you to create a Nodejs server easily.
 
