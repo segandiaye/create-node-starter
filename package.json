@@ -10,8 +10,9 @@
     "create-node-starter": "bin/index.js"
   },
   "scripts": {
-    "test:ci": "npm run lint && npm run test:unit",
+    "test:ci": "npm run lint && npm run test:unit && npm run test:coverage",
     "test:unit": "jest test/unit",
+    "test:coverage": "jest --coverage",
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
   },
